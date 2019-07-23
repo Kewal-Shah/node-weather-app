@@ -25,7 +25,7 @@ app.get("", (request, response) => {
         title: "Weather",
         name: "Kewal Shah",
         headerText : "Header"
-    });
+    });   
 })
 
 app.get("/help", (request, response)  => {
